@@ -1,0 +1,5 @@
+jupyterlab
+notebook
+viola
+jupyter-console
+pandas
